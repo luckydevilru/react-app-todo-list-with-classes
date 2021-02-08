@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## [DEMO](http://lucky-devil.ru/am/react-todo-classes/)
+[DEMO](http://lucky-devil.ru/am/react-todo-classes/)
 
 ## Available Scripts
 
